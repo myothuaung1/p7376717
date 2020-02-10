@@ -1,0 +1,53 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+div {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 5px;
+  background-color: #aadaff;  
+}
+.highlight {
+  background: yellow;
+}
+.highlight2 {
+  background: orange;
+}
+table, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 20px;
+  width: 50%;  
+}
+td {
+  padding: 15px;
+}
+#ajax-movies-list {
+  border: 0px solid #b1b1b1;
+  padding: 20px;
+  background:#f7f7f7;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: black;
+  text-decoration: none;
+}
